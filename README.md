@@ -1,4 +1,4 @@
-# UniversalBridges
+# UniverseBridges
 
 死亡搁浅风味的货运公司增量游戏。灵感来自《万能回形针》(Universal
 Paperclips) 的"最小单位产出、层层升级、最终失控"这套增量游戏框架，核心
