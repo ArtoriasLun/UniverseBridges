@@ -1,0 +1,22 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE local state
+.vs/
+.idea/
+*.swp
+
+# Internal dev-process docs (workflow rules, art/UI style notes migrated
+# from a private sister project). This repo is open source; these stay
+# local-only and are never pushed.
+/skills/
+/DEVELOPMENT.md
+
+# Reference-only material: the untouched Universal Paperclips source
+# (Frank Lantz's original game, RandomDude's patch, our Chinese translation
+# of it) kept around locally to study/copy from while building the actual
+# UniversalBridges game from scratch. Not our IP, not part of the shipped
+# game — never published in this open-source repo.
+/reference/
